@@ -19,6 +19,6 @@ Body of the article
 </text>
 </page>
 
-It give the name of created file as <"Title of page" + .txt>
+It give the name of created file as <"Title of page" + ".txt">
 created files contain the text which are written between <text> ... </text>
 

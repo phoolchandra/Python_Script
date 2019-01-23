@@ -1,7 +1,6 @@
-# Python_Script_for-Split_file
+# Python_Scripts
 
-It Split the files like 
-
+### file final.py split the testCollection.dat file
 <page>
 <id> pageID (an integer) </id>
 <title> title of the page </title>
@@ -20,5 +19,8 @@ Body of the article
 </page>
 
 It give the name of created file as <"Title of page" + ".txt">
-created files contain the text which are written between <text> ... </text>
+created files contain the text which are written between <text> ... </text><br>
+
+### quest3.py takes the data from out1.txt file and make the graph of <br>
+### using Numpy, Matplotlib, and pandas python libraries.
 
